@@ -6,7 +6,7 @@
 
 - 📫 You can reach me through on my personal email: "rayaso.787@gmail.com" | You can also reach out through my Linked In profile: "https://www.linkedin.com/in/kristoef-barrett-78ab30325/" (Still a WIP so please bear with me) | Please be sure to specify that you found me through GitHub! 
 
-- ⚡ Fun fact: I'm self taught piano for six years now! (and counting...) | I play a LOT of chess.
+- ⚡ Fun fact: I'm self taught piano for six years now! (and counting...) | I play a LOT of chess. | I type at around ~150 wpm 
 
 - 💻 Specs: MacBook Air 15inch M3 2024 (Main) | i5-12600KF, 16GB DDR4-3200, MSI RTX 4060 Ti Ventus 3X (PC Rig) | (Secondary Laptop)
 
