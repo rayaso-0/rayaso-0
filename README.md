@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in everything that is related to computers. 
 
-- 🌱 I’m currently learning Python, Javascript, and Java. I plan on learning everything regarding Full Stack. 
+- 🌱 I’m currently learning Python, Javascript, and Java. I plan on learning everything regarding Full Stack. (In the middle of progressing through The Odin Project)
 
 - 📫 You can reach me through on my personal email: "rayaso.787@gmail.com" | You can also reach out through my Linked In profile: "https://www.linkedin.com/in/kristoef-barrett-78ab30325/" (Still a WIP so please bear with me) | Please be sure to specify that you found me through GitHub! 
 
