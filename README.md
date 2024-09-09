@@ -10,4 +10,4 @@
 
 - 💻 Specs: MacBook Air 15inch M3 2024 (Main) | i5-12600KF, 16GB DDR4-3200, MSI RTX 4060 Ti Ventus 3X (PC Rig) | (Secondary Laptop)
 
-(I will add more here once I get my feet wet in the GitHub space and the programming community in general!)
+(I will add more here once I get my feet more wet in the GitHub space and the programming community in general!)
