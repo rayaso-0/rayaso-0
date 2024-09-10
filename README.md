@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Python, Javascript, and Java. I plan on learning everything regarding Full Stack. (In the middle of progressing through The Odin Project)
 
-- 📫 You can reach me through on my personal email: "rayaso.787@gmail.com" | You can also reach out through my LinkedIn profile: "www.linkedin.com/in/kristoefb" (Still a WIP so please bear with me) | Please be sure to specify that you found me through GitHub! 
+- 📫 You can reach me through on my personal email: "kristoef.barr3945@gmail.com" | You can also reach out through my LinkedIn profile: "www.linkedin.com/in/kristoefb" (Still a WIP so please bear with me) | Please be sure to specify that you found me through GitHub! 
 
 - ⚡ Fun fact: I'm self taught piano for six years now! (and counting...) | I play a LOT of chess. | I type at around ~150 wpm | I love writing on the side. I have a strong passion for philosophy and deep poems. 
 
