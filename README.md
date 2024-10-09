@@ -1,6 +1,7 @@
+## WELCOME !!
 - 👋 Hi, I’m @rayaso-0 | AKA Kristoef B. | Currently a student at University of North Carolina at Charlotte majoring in Computer Science with a concentration of Systems and Networks.
 
-- 🌱 I’m currently learning Python, Javascript, and Java. I plan on learning everything regarding Full Stack. (In the middle of progressing through The Odin Project)
+- 🌱 I’m currently learning Python, Javascript, and Java. I plan on learning everything regarding Full Stack. (In the middle of progressing through the [freecodecamp.org](https://www.freecodecamp.org/learn) curriculum.)
 
 - 📫 You can reach me through on my personal email: "kristoef.barr3945@gmail.com" | You can also reach out through my LinkedIn profile: "www.linkedin.com/in/kristoefb" (Still a WIP so please bear with me) | Please be sure to specify that you found me through GitHub! 
 
